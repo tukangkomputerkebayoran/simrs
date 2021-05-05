@@ -22,12 +22,12 @@
     <entry key="ALARMBOOKINGPERIKSA">yes</entry>
     <entry key="ALARMPENGADUANPASIEN">yes</entry>
     <entry key="MENUTRANSPARAN">yes</entry>
-    <entry key="URLAPIBPJS">https://new-api.bpjs-kesehatan.go.id:8080/new-vclaim-rest</entry>
-    <entry key="SECRETKEYAPIBPJS">l4nh5eVYrLAER/I2A4b3Tw==</entry>
-    <entry key="CONSIDAPIBPJS">l4nh5eVYrLAER/I2A4b3Tw==</entry>
+    <entry key="URLAPIBPJS">https://dvlp.bpjs-kesehatan.go.id/VClaim-Rest</entry>
+    <entry key="SECRETKEYAPIBPJS">pLTo1eRm4pNc6lXfmXZ9Lw==</entry>
+    <entry key="CONSIDAPIBPJS">+epKdXDCcaJvnSuzRAt6Cg==</entry>
     <entry key="URLAPIAPLICARE">https://new-api.bpjs-kesehatan.go.id/aplicaresws</entry>
-    <entry key="SECRETKEYAPIAPLICARE">l4nh5eVYrLAER/I2A4b3Tw==</entry>
-    <entry key="CONSIDAPIAPLICARE">l4nh5eVYrLAER/I2A4b3Tw==</entry>
+    <entry key="SECRETKEYAPIAPLICARE">pLTo1eRm4pNc6lXfmXZ9Lw==/I2A4b3Tw==</entry>
+    <entry key="CONSIDAPIAPLICARE">+epKdXDCcaJvnSuzRAt6Cg==</entry>
     <entry key="URLAPIPCARE">https://new-api.bpjs-kesehatan.go.id/pcare-rest-v3.0</entry>
     <entry key="SECRETKEYAPIPCARE">l4nh5eVYrLAER/I2A4b3Tw==</entry>
     <entry key="CONSIDAPIPCARE">l4nh5eVYrLAER/I2A4b3Tw==</entry>
